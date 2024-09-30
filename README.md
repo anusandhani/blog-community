@@ -1,5 +1,5 @@
 
-## Full stack Medium Blog clone using React JS, Tailwind css, Firebase. React JS tutorial 2024
+## anusandhani - blog community
 
 <img src="./public/mediumBanner.png" alt="banner-image"/>
 

@@ -3,8 +3,7 @@
 
 <img src="./public/mediumBanner.png" alt="banner-image"/>
 
-## Demo
-[Tutorial Video Link](https://youtu.be/HySH1Easuf4)
+## Live Server
 
 [Live Link](https://medium-blog1.netlify.app/)
 
